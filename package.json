@@ -10,7 +10,7 @@
     "start": "nw"
   },
   "dependencies": {
-    "nw": "^0.12.3",
+    "nw": "^0.46.0",
     "express": "^4.13.3",
     "ejs": "^2.3.4",
     "body-parser": "^1.14.0",
